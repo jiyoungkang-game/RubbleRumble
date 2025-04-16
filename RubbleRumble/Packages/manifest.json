@@ -10,6 +10,7 @@
     "com.unity.ml-agents.extensions": "file:../../com.unity.ml-agents.extensions",
     "com.unity.nuget.newtonsoft-json": "3.2.1",
     "com.unity.recorder": "4.0.2",
+    "com.unity.terrain-tools": "5.0.6",
     "com.unity.test-framework": "1.1.33",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.toolchain.macos-arm64-linux-x86_64": "2.0.4",
